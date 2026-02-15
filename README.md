@@ -67,9 +67,16 @@ Building software for 13+ years across web, mobile, AI, and infrastructure. I be
 
 ### GitHub Activity
 
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=phucsystem&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phucsystem&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=phucsystem&show_icons=true&theme=github_dark&hide_border=true&count_private=true&card_width=450" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=phucsystem&show_icons=true&hide_border=true&count_private=true&card_width=450" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=phucsystem&layout=compact&theme=github_dark&hide_border=true&langs_count=8&card_width=350" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phucsystem&layout=compact&hide_border=true&langs_count=8&card_width=350" />
+</picture>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=phucsystem&theme=github-dark-blue&hide_border=true" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=phucsystem&theme=github-dark-blue&hide_border=true" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=phucsystem&hide_border=true" />
+</picture>
