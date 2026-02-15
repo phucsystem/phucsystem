@@ -67,12 +67,5 @@ Building software for 13+ years across web, mobile, AI, and infrastructure. I be
 
 ### GitHub Activity
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phucsystem&theme=github_dark" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phucsystem&theme=github_dark" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=phucsystem&theme=github_dark" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=phucsystem&theme=github_dark&utcOffset=7" />
-
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phucsystem&theme=github_dark" />
-
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=phucsystem&theme=github-dark-blue&hide_border=true" />
