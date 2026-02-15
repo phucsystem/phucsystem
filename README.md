@@ -67,16 +67,12 @@ Building software for 13+ years across web, mobile, AI, and infrastructure. I be
 
 ### GitHub Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=phucsystem&show_icons=true&theme=github_dark&hide_border=true&count_private=true&card_width=450" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=phucsystem&show_icons=true&hide_border=true&count_private=true&card_width=450" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=phucsystem&layout=compact&theme=github_dark&hide_border=true&langs_count=8&card_width=350" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phucsystem&layout=compact&hide_border=true&langs_count=8&card_width=350" />
-</picture>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phucsystem&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phucsystem&theme=github_dark" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=phucsystem&theme=github-dark-blue&hide_border=true" />
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=phucsystem&hide_border=true" />
-</picture>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=phucsystem&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=phucsystem&theme=github_dark&utcOffset=7" />
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phucsystem&theme=github_dark" />
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=phucsystem&theme=github-dark-blue&hide_border=true" />
