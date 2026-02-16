@@ -4,6 +4,8 @@
 
 Building software for 13+ years across web, mobile, AI, and infrastructure. I believe the only way to go fast is to go well.
 
+Got an idea for a SaaS or AI agent-based product? Drop me an email — always open to interesting collaborations.
+
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phucsystem@gmail.com)
 
 ---
