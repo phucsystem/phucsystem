@@ -4,7 +4,6 @@
 
 Building software for 13+ years across web, mobile, AI, and infrastructure. I believe the only way to go fast is to go well.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phil-dang)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phucsystem@gmail.com)
 
 ---
